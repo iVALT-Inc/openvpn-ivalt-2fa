@@ -236,7 +236,7 @@ x-api-key: your_api_key_here
   "message": "Authentication verified successfully",
   "result": {
     "authenticated": true,
-    "timestamp": "2024-10-01T12:00:00Z",
+    "timestamp": "2025-10-20T12:00:00Z",
     "location": {
       "latitude": 40.7128,
       "longitude": -74.006,
@@ -330,7 +330,7 @@ def ivalt_auth_request_verify(mobile: str) -> tuple[bool, str]:
   "error": {
     "code": "ERROR_CODE",
     "detail": "Human readable error message",
-    "timestamp": "2024-10-01T12:00:00Z"
+    "timestamp": "2025-10-20T12:00:00Z"
   }
 }
 ```

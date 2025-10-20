@@ -27,7 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improved API key handling guidelines
 - Enhanced timeout and retry logic documentation
 
-## [1.0.0] - 2024-10-01
+## [1.0.0] - 2025-10-20
 
 ### Added
 
@@ -138,7 +138,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Version 1.0.0 Release Notes
 
-**Release Date**: October 1, 2024
+**Release Date**: October 20, 2025
 
 **Highlights**:
 

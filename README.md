@@ -107,7 +107,7 @@ IVALT_SECRET_KEY = "your_ivalt_secret_key_here"
 ### OpenVPN Access Server Configuration
 
 1. Navigate to your OpenVPN Access Server admin interface
-2. Go to **Configuration** → **Authentication** → **Post-Authentication Script**
+2. Go to (https://openvpn.net/as-docs/tutorials/tutorial--install-post-auth-script.html#tutorial--how-to-install-a-post-auth-script)
 3. Set the script path to your `main.py` file
 4. Ensure the script has execute permissions
 

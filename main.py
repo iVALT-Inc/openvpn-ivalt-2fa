@@ -31,7 +31,7 @@ def post_auth(authcred, attributes, authret, info):
         print("Native auth passed, running extra PAS checks...")
         status, mobile = ivalt_get_mobile_by_email(authcred['username'])
         start_time = time.time()
-        verified = False
+        verified = ""
         msg = "AUTHENTICATION_FAILED"
         print(mobile)
 

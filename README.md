@@ -108,7 +108,7 @@ IVALT_SECRET_KEY = "your_ivalt_secret_key_here"
 
 Please refer the link below
 
-https://openvpn.net/as-docs/tutorials/tutorial--install-post-auth-script.html#tutorial--how-to-install-a-post-auth-script
+https://openvpn.net/as-docs/tutorials/tutorial--ivalt-2fa-access-server.html
 
 ## Usage
 

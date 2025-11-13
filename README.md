@@ -102,7 +102,6 @@ pip install requests>=2.28.0
 2. **Fill out the form** with name, email, and reason for API request
 3. **Submit** the form
 4. **Receive email** with API key (sent immediately)
-5. **Use the API key** in the `x-api-key` header for API requests
 
 ### Environment Variables
 

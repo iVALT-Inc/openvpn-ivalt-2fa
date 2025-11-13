@@ -98,7 +98,7 @@ pip install requests>=2.28.0
 
 ### Request for API key
 
-1. **Visit** `https://ivalt.com/api-request`
+1. **Visit** https://ivalt.com/api-request
 2. **Fill out the form** with name, email, and reason for API request
 3. **Submit** the form
 4. **Receive email** with API key (sent immediately)

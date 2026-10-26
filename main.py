@@ -26,7 +26,7 @@ def post_auth(authcred, attributes, authret, info):
     if info.get('auth_method') in ('session', 'autologin'):
         return authret
 
-    if attributes.get('vpn_auth'):
+    if attributes.get('vpn_auth') or attributes.get('log_service_name') in ('WEB_CLIENT', 'WEB_ADMIN'):
         # Here is where you put extra checks for normal native-authenticated users
         print("Native auth passed, running extra PAS checks...")
         status, mobile = ivalt_get_mobile_by_email(authcred['username'])
